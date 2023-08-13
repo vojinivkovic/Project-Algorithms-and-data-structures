@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\3. godina\ASP\Domaci\Domaci 2\Project1\Project1\main.cpp(13,14): error C3861: 'find_index_of_word_in_array': identifier not found
+C:\3. godina\ASP\Domaci\Domaci 2\Project1\Project1\main.cpp(16,20): error C3861: 'find_index_of_word_in_array': identifier not found
+C:\3. godina\ASP\Domaci\Domaci 2\Project1\Project1\main.cpp(44,11): error C3861: 'find_index_of_word_in_array': identifier not found
+C:\3. godina\ASP\Domaci\Domaci 2\Project1\Project1\main.cpp(49,30): error C3861: 'return_weight_between_two_nodes': identifier not found
+C:\3. godina\ASP\Domaci\Domaci 2\Project1\Project1\main.cpp(416,6): error C2084: function 'void find_the_shortest_path(std::string *,int,double **,std::string *,std::string,std::string)' already has a body
+C:\3. godina\ASP\Domaci\Domaci 2\Project1\Project1\main.cpp(9): message : see previous definition of 'find_the_shortest_path'
+C:\3. godina\ASP\Domaci\Domaci 2\Project1\Project1\main.cpp(930,4): error C2065: 'find_the_shortest_path': undeclared identifier
